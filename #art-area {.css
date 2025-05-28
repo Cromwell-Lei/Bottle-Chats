@@ -1,0 +1,21 @@
+#art-area {
+    height: 200px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+#bottle-area {
+    padding: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+#message-container {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
